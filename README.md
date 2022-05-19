@@ -40,7 +40,7 @@ The Colorado Board of Elections employee has requested additional information fo
 * A total of 369,711 votes were cast in the election.
 * Votes by county:
   
-  ![county_votes](resources/county_votes.png)
+![county_votes](resources/county_votes.png)
   
 * The largest voter turnout was in Denver County
 * Candidate total votes and percentages:
