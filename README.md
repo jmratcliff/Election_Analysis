@@ -29,5 +29,27 @@ The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote with 272,892 votes.
 
 ## Challenge Overview
+The Colorado Board of Elections employee has requested additional information for the election audit of the congressional election.
+
+1. The voter turnout for each county.
+2. The percentage of votes from each county out of the total votes.
+3. The county with the highest turnout.
 
 ## Challenge Summary
+### Election audit results
+* A total of 369,711 votes were cast in the election.
+* Votes by county:
+  
+  ![county_votes](resources/county_votes.png)
+  
+* The largest voter turnout was in Denver County
+* Candidate total votes and percentages:
+
+![candidate_votes](resources/candidate_votes.png)
+
+* The winning candidate was:
+
+![candidate_votes](resources/winner.png)
+
+### Election audit summary
+
